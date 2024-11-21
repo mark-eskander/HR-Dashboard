@@ -1,12 +1,23 @@
 # HR-Dashboard
-HR Data analysis Dashboard
-This Power BI project focuses on analyzing key HR metrics to provide actionable insights. The dashboard visualizes employee demographics, performance metrics, retention trends, and workforce distribution. It is designed to help HR teams make data-driven decisions to optimize talent management and improve organizational efficiency.
+This Power BI project focuses on analyzing key HR metrics to provide actionable insights. The dashboard visualizes:
 
-The project provides a comprehensive HR analysis, featuring:
+Employee demographics
+Performance metrics
+Retention trends
+Workforce distribution
+It is designed to help HR teams make data-driven decisions to optimize talent management and improve organizational efficiency.
 
-Attrition Rate Over Time: Tracking employee attrition trends.
-Salaries Spent: Analyzing total compensation over time.
-Workforce Growth: Visualizing the number of employees per year.
-Top 10 Employee Insights: Identifying employees with the highest distance metrics.
-Additionally, the project involves thorough data cleaning and building an efficient data model to ensure accurate and insightful reporting.
-This dashboard is a powerful tool for HR teams seeking to make informed decisions and optimize workforce management.
+Features
+This project includes:
+
+Attrition Rate Over Time: Tracking employee attrition trends to identify patterns.
+Salaries Spent: Analyzing total compensation trends over time.
+Workforce Growth: Visualizing the number of employees per year to monitor growth or decline.
+Top 10 Employee Insights: Highlighting employees with the highest distance metrics.
+Data Preparation
+The project involves:
+
+Comprehensive data cleaning to handle inconsistencies and missing values.
+Building a robust data model to ensure accuracy and scalability of the analysis.
+Objectives
+The goal of this project is to empower HR departments with actionable insights by delivering a clear and interactive dashboard, enabling better decision-making and workforce optimization.
